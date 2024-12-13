@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color:white;
+}
+body{
+    background-image: url(aesthetic-computer-4k-2o1einarkegqjjj5.jpg);
+    background-size: cover;
+}
+.formok{
+    display: inline-block;
+    position: relative;
+    top: 200px;
+    left: 700px;
+    width: 470px;
+    height: 600px;
+    backdrop-filter: blur(4px) saturate(200%);
+    -webkit-backdrop-filter: blur(4px) saturate(200%);
+    background-color: rgba(17, 25, 40, 0.26);
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+.heading{
+    position: relative;
+    left: 180px;
+    top: 30px;
+}
+.input-main{
+    margin: 50px;
+    width: 350px;
+    height: 100px;
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+.passworddiv{
+position: relative;
+top: 50px;
+}
+.remembersec{
+    position: relative;
+    top: 100px;
+    left: 20px;
+}
+input{
+    display:block;
+    border: none;
+    border-radius: 0px;
+    width: 300px;
+    height: 20px;
+    border-bottom: 2px solid;
+}
+.pemail{
+    position: relative;
+    bottom: 15px;;
+}
+.ppasword{
+    position: relative;
+    bottom: 15px;
+    border: none;
+
+}
+.aaa{
+    background: transparent;  
+}
+.bbb{
+    background: transparent;  
+    
+}
+input:focus{
+    outline: none;
+    position: relative;
+}
+.checkbox{
+    display: inline-block;
+    position: relative;
+    right: 85px;
+}
+.checkbox:hover{
+    cursor: pointer;
+}
+.rem{
+    display: inline-block;
+    position: relative;
+    right: 220px;
+    bottom: 4px;
+}
+.frgtpswrdlnk{
+position: relative;
+left: 220px;
+bottom:20px;
+display: inline-block;
+text-decoration: none;
+font-weight: 700;
+}
+button{
+    width:300px;
+    height:35px ;
+    border-radius: 20px;
+    position: relative;
+    left: 73px;
+    top:140px;
+    font-weight: 800;
+    border: none;
+    color: black;
+    background: linear-gradient(45deg,red,green);
+}
+button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+button:active{
+  transform: scale(0.9);
+}
+.last{
+    position: relative;
+    top:210px;
+}
+.dnt{
+    position: absolute;
+    left: 100px;
+}
+.registerlink{
+    position: relative;
+    left: 10px;
+    text-decoration: none;
+    font-weight: 600;
+}  
+a:hover{
+    text-decoration:underline;
+    color: rgb(134, 111, 218);
+}
+a:active{
+    color: blue;
+}
+i{
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+}
+
+
